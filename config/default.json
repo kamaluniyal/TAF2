@@ -1,0 +1,11 @@
+// This file is to declare application level/global variables and configuration settings. You can declare variables in a key value pair.Sample example as below :
+{
+  "projectName": "Intranet",
+  "intranet": {
+    "url": "https://intranet.mgmt.local/D/PTC1/TAFTestPage"
+  },
+  
+   "browser": "chrome",
+    "mochaTimeoutMS": 50000
+  
+}

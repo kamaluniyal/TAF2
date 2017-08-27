@@ -128,5 +128,55 @@ module.exports = (function () {
     }) 
 
 
+
+
+// Adding commented code 
+// add this to master
+
+//     .then("User switch to top frame and selects Mutual Funds", function () {
+//         // log.info('User enters text in the text box inside iframe');           
+//      functionLibrary.fnSwitchToTopFrame();
+//      functionLibrary.fnSelectValueFromDropDown(examplePage.selectlist,"Mutual Funds");      
+            
+//  }) 
+//  .then("User switch to top frame and selects Mutual Funds", function () {
+//     // log.info('User enters text in the text box inside iframe');           
+//  functionLibrary.fnSwitchToTopFrame();
+//  functionLibrary.fnSelectValueFromDropDown(examplePage.selectlist,"Mutual Funds");      
+        
+// }) 
+// .then("User switch to top frame and selects Mutual Funds", function () {
+//     // log.info('User enters text in the text box inside iframe');           
+//  functionLibrary.fnSwitchToTopFrame();
+//  functionLibrary.fnSelectValueFromDropDown(examplePage.selectlist,"Mutual Funds");      
+        
+// }) 
+// .then("User switch to top frame and selects Mutual Funds", function () {
+//     // log.info('User enters text in the text box inside iframe');           
+//  functionLibrary.fnSwitchToTopFrame();
+//  functionLibrary.fnSelectValueFromDropDown(examplePage.selectlist,"Mutual Funds");      
+        
+// }) 
+// .then("User switch to top frame and selects Mutual Funds", function () {
+//     // log.info('User enters text in the text box inside iframe');           
+//  functionLibrary.fnSwitchToTopFrame();
+//  functionLibrary.fnSelectValueFromDropDown(examplePage.selectlist,"Mutual Funds");      
+        
+// }) 
+// .then("User switch to top frame and selects Mutual Funds", function () {
+//     // log.info('User enters text in the text box inside iframe');           
+//  functionLibrary.fnSwitchToTopFrame();
+//  functionLibrary.fnSelectValueFromDropDown(examplePage.selectlist,"Mutual Funds");      
+        
+// }) 
+// .then("User switch to top frame and selects Mutual Funds", function () {
+//     // log.info('User enters text in the text box inside iframe');           
+//  functionLibrary.fnSwitchToTopFrame();
+//  functionLibrary.fnSelectValueFromDropDown(examplePage.selectlist,"Mutual Funds");      
+        
+// }) 
+
+
+
     return library;
 })();

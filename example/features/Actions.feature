@@ -14,4 +14,10 @@ Scenario: Verification of Action Functions
    Then User enters text in the text box inside iframe
    Then User switch to top frame and selects Mutual Funds
    Then User clicks on link to open new window and switch back to parent window
+   adding new lines to this 
+   so that some chanes are pushed 
+   to master 
+   from branch 201
+   and Then i will mwrger 
+   101 to maste
    
